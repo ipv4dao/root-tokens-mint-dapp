@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC686C718cce8b20f83121517a535c9498045fAA5",
+  "SCAN_LINK": "https://etherscan.io/address/0xC686C718cce8b20f83121517a535c9498045fAA5",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "IPv4DAO Root Token",
+  "SYMBOL": "IP4",
+  "MAX_SUPPLY": 80,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ipv4dao-root",
+  "SHOW_BACKGROUND": true
+}
