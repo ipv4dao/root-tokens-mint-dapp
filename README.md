@@ -30,7 +30,7 @@ Set the newly installed version as the active one:
 nvm use 16
 ```
 
-After downgrading Node.js, remove your node_modules folder and package-lock.json file:
+After changing the version of Node.js, remove your node_modules folder and package-lock.json file:
 
 ```sh
 rm -rf node_modules
